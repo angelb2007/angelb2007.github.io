@@ -10,7 +10,7 @@ html {
 
 body {
   background-color: #fff0f6;
-  font-family: "Protest Riot", sans-serif;
+  font-family: "Cardo", sans-serif;
 }
 
 .container {
@@ -58,11 +58,11 @@ body {
 }
 
 .btn--yes {
-  background-color: #40c057;
+  background-color: #81bb7d;
 }
 
 .btn--no {
-  background-color: #f03e3e;
+  background-color: #d66762;
 }
 
 .hidden {
